@@ -69,4 +69,5 @@ The repository for Python is like a folder or storage space that contains all th
 * [Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [Python 3.8.1 documentation](https://docs.python.org/3/)
 * [Python Sandbox](https://edube.org/sandbox?language=python)
+* [Python Built-in Functions](https://docs.python.org/3/library/functions.html)
 
